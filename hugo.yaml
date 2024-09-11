@@ -1,0 +1,4 @@
+baseURL: https://awesome-hugo.github.io/Hextra/
+languageCode: en-us
+title: Hextra
+theme: hextra
